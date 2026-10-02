@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""/>
+  <img src="./github-banner.gif" width="100%">
 </p>
 
 ### 💻 Estudiante de Desarrollo de Aplicaciones Web · 2º DAW
