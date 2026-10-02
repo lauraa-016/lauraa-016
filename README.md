@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👋 ¡Hola! Soy Laura de la Mata🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=""/>
 </p>
 
 ### 💻 Estudiante de Desarrollo de Aplicaciones Web · 2º DAW
