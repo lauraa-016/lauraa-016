@@ -89,14 +89,15 @@ Git / GitHub        ████████░░░  En desarrollo
 Seguir creciendo como desarrolladora, convertir los conocimientos adquiridos durante el ciclo en **proyectos reales** y construir poco a poco un portfolio que refleje mi evolución.
 
 Este GitHub es también una forma de documentar ese proceso.
-
 ---
 
-### 📫 ¡Gracias por visitar mi perfil!
+<p align="center">
+  <i>Gracias por pasarte ! 💻✨</i>
+</p>
 
-Siempre estoy aprendiendo algo nuevo.
-**Cada proyecto es una oportunidad para aprender, equivocarse y mejorar.** 🚀
-
+<p align="right">
+  <img src="./octocat-lauraa-016" width="220">
+</p>
 ---
 ## 📬 Contacto
 
