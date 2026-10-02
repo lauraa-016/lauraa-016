@@ -95,7 +95,7 @@ Este GitHub es también una forma de documentar ese proceso.
   <i>Gracias por pasarte ! 💻✨</i>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="./octocat-lauraa-016.png" width="220">
 </p>
 
